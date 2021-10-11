@@ -20,3 +20,6 @@ fun translation(@RequestPayload request: TranslationRequest): TranslationRespons
             translation = "¡Tradúceme!"
         }
 ```
+
+# Github actions
+In `ci.yml`, added work in branches.
